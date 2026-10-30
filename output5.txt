@@ -1,0 +1,18 @@
+=======================================================
+             ATM TRANSACTION SUMMARY
+=======================================================
+Type           Amount         Status
+-------------------------------------------------------
+deposit        Rs. 2000.00    SUCCESSFUL
+                              Balance: Rs. 7000.00
+withdrawal     Rs. 1500.00    SUCCESSFUL
+                              Balance: Rs. 5500.00
+withdrawal     Rs. 7000.00    REJECTED: Insufficient balance
+                              Balance: Rs. 5500.00
+-------------------------------------------------------
+Total Deposits:       Rs. 2000.00
+Total Withdrawals:    Rs. 1500.00
+Successful Transactions: 2
+Rejected Transactions:   1
+Final Account Balance: Rs. 5500.00
+=======================================================

@@ -1,0 +1,31 @@
+=======================================================
+     STUDENT EMAIL AND IDENTIFIER VALIDATION
+=======================================================
+
+1. Validate student email
+2. Validate registration ID
+3. Validate both
+4. Exit
+
+Choose an option (1-4): 3
+Enter student email: student@@college..com
+Enter registration ID: 24-CS-123
+
+Email: student@@college..com
+Status: INVALID
+- Multiple @ symbols found
+
+Registration ID: 24-CS-123
+Status: INVALID
+- Hyphens are not allowed
+- Registration ID contains invalid characters
+
+===== STUDENT EMAIL AND IDENTIFIER VALIDATION =====
+
+1. Validate student email
+2. Validate registration ID
+3. Validate both
+4. Exit
+
+Choose an option (1-4): 4
+Exiting validation system. Goodbye!

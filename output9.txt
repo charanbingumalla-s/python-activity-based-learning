@@ -1,0 +1,19 @@
+===== CLASSROOM OCCUPANCY SYSTEM =====
+1. Display classroom seating
+2. Allocate a student
+3. Calculate occupancy and vacant capacity
+4. Exit
+
+Choose an option (1-4): 3
+
+==================================================
+           OCCUPANCY SUMMARY
+==================================================
+Total seating positions: 29
+Occupied seats:         0
+Reserved seats:         5
+Vacant seats:           24
+Available capacity:     24
+Remaining vacancies:    24
+Occupancy rate:         0.00%
+==================================================

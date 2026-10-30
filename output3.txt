@@ -1,0 +1,14 @@
+========================================
+       HOSPITAL BILLING SYSTEM
+========================================
+Patient Name: Ravi
+Patient Age: 65
+Patient Category: Senior Citizen
+
+Consultation Fee: Rs. 500.00
+Diagnostic Charges: Rs. 1000.00
+Treatment Charges: Rs. 2500.00
+
+Total Bill: Rs. 4000.00
+Patient Classification: Senior Citizen
+========================================

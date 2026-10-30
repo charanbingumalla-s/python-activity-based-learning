@@ -1,0 +1,16 @@
+====================================================================================================
+             WAREHOUSE INVENTORY RECONCILIATION REPORT
+====================================================================================================
+Product          Opening  Incoming  Dispatch  Expected   Actual  Difference           Status
+----------------------------------------------------------------------------------------------------
+Laptop                50        20        30        40       38          -2    STOCK SHORTAGE
+Mouse                100        20        80        40       30         -10    STOCK SHORTAGE
+====================================================================================================
+
+                 INVENTORY SUMMARY
+=======================================================
+Total products checked:       2
+Products matching records:    0
+Products with excess stock:   0
+Products with stock shortage: 2
+Total units to replenish:     5

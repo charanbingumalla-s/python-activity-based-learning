@@ -1,0 +1,26 @@
+--------------------------------------------------
+Registration ID: 24CSE1234
+Status: VALID
+Admission Year Code: 24
+Branch Code: CSE
+Branch Name: Computer Science and Engineering
+Student Number: 1234
+
+--------------------------------------------------
+Registration ID: 24ECE5678
+Status: VALID
+Admission Year Code: 24
+Branch Code: ECE
+Branch Name: Electronics and Communication Engineering
+Student Number: 5678
+
+--------------------------------------------------
+Registration ID: 24XYZ1234
+Status: INVALID
+Error: Unknown branch code
+
+FINAL SUMMARY
+------------------------------
+Total records: 3
+Valid records: 2
+Invalid records: 1

@@ -1,0 +1,13 @@
+========================================
+      RAILWAY FARE CALCULATOR
+========================================
+Passenger Name: Charan
+Travel Distance: 200 km
+Selected Class: Sleeper
+
+Base Fare: Rs. 200.00
+Reservation Charge: Rs. 20.00
+Age Concession: Rs. 0.00
+
+Total Ticket Fare: Rs. 220.00
+========================================

@@ -1,0 +1,13 @@
+========================================
+     UNIVERSITY SCHOLARSHIP SYSTEM
+========================================
+Student Name: Charan
+Aggregate Percentage: 92.0%
+Subject Minimum Percentage: 85.0%
+Attendance: 95.0%
+Annual Family Income: Rs. 150000
+
+Scholarship Eligibility: ELIGIBLE
+Academic Performance: EXCELLENT
+Scholarship Status: Approved for consideration
+========================================

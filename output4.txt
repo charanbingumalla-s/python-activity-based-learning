@@ -1,0 +1,18 @@
+========================================
+       CAMPUS EVENT FINANCIAL PLAN
+========================================
+Event Name: Technical Fest
+
+Venue Cost: Rs. 10000.00
+Food Cost: Rs. 15000.00
+Decoration Cost: Rs. 5000.00
+Other Expenses: Rs. 2000.00
+
+Total Expenses: Rs. 32000.00
+Participant Contributions: Rs. 20000.00
+Sponsorship Amount: Rs. 10000.00
+Total Available Funds: Rs. 30000.00
+
+Financial Status: SHORTFALL
+Additional Funds Required: Rs. 2000.00
+========================================
